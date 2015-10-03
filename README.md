@@ -10,6 +10,9 @@ You are tasked to build and design the front-end of a new highly-sophisicated lo
 
 *note: you can use the `cart.svg` file as your image, just include it in your HTML markup*
 
+## Your Items Data
+Get your Data for your Items [here](https://gist.github.com/sgnl/875180239a94e9fb4e91)
+
 ## Getting Started
 1. Fork and Clone this repository.
 2. Build this project with good file structure in mind.
