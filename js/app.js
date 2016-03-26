@@ -52,15 +52,18 @@ function updateSubTotal(lists){
 
 		var bottomContainer = document.getElementById('cartLists');
 		bottomContainer = document.createElement('div');
-		bottomContainer.id='bottmon';
+		bottomContainer.id='bottom';
 		cartLists.appendChild(bottomContainer);
 
 		var subElement = document.createElement('div');
 		subElement.id='subtotal';
-		subElement.innerHTML = subtotal;
+		//subElement.innerHTML = subtotal;
 		bottomContainer.appendChild(subElement);
+
+		document.getElementById('subtotal').innerHTML=subtotal;
 	}
 	console.log(subtotal);
+	//return subtotal;
 }
 
 updateSubTotal(shoppingCartList);

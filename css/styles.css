@@ -11,15 +11,12 @@ body{
 	width: auto;
 	border:none;
 	margin-bottom: 65px;
-}
-
-#title{
 	color:white;
 	font-size: 30px;
 	padding-left: 220px;
 	padding-top: 25px;
-
 }
+
 
 #main{
 	margin-top: 10px;
