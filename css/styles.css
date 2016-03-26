@@ -3,6 +3,8 @@
 body{
 	background-color: #F2F0F0;
 	font-family: 'Abel', sans-serif;
+	margin: 0px;
+	padding: 0px;
 }
 
 #title{
